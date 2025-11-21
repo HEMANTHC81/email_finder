@@ -1,1 +1,1 @@
-# emial_finder
+# email_finder
